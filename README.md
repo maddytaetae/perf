@@ -1,7 +1,7 @@
 # Perf Assignment
 This is a Jmeter assignment prepared by Madhurya N Somayaji for Magnitude Software.
 
-All the files in the repo needs to be downlaoded and details as decribed below.
+All the files in the repo needs to be downloaded and details as decribed below.
 
 ## Assignment.jmx
 This should be open in Jmeter v5.4.1 to execute
